@@ -31,7 +31,7 @@ button {
 }
 
 h2 {
-  color: rgb(231, 19, 37);
+  color: rgb(223, 170, 174);
   font-family: "Garamond";
   font-size: x-large;
 }
@@ -125,7 +125,7 @@ form {
 
 #placar,
 #quantidade-cartas {
-  color: rgb(231, 19, 37);
+  color: rgb(223, 170, 174);
   font-family: "Garamond";
   font-size: x-large;
 }
